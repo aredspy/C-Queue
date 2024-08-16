@@ -12,6 +12,6 @@ The priority queue will dequeue with highest priority number (uint), which can b
 | Action | Queue | P_Queue |
 |--------|-------|---------|
 | Enqueue| O(1)  | O(1)    |
-| Dequeue| O(1)  | O(N)    |
+| Dequeue| O(1)  | O(n)    |
 |is_empty| O(1)  | O(1)    |
-| Peek   |       | O(N)    | 
+| Peek   |       | O(n)    | 
