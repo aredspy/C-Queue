@@ -5,7 +5,7 @@ This was originally used as part of a scheduler that used several task sharing a
 
 A sample makefile is provided to create a test program that displays the structures of the queues with sample nodes.
 
-The priority queue will dequeue with highest priority number (uint), which cna be modified for lowest or a different comparator.
+The priority queue will dequeue with highest priority number (uint), which can be modified for lowest or a different comparator.
 
 ### Complexity table
 
